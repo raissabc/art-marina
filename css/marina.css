@@ -1,0 +1,81 @@
+body{
+    margin: 0;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: grey;
+    font-size: 16px;
+    line-height: 22px;
+
+}
+header{
+    background-color: darkslategrey;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+
+}
+
+header h1{
+    color: white;
+    font-family: 'Alkatra', cursive;
+    font-size: 44px;
+}
+
+header img{
+    border-radius: 170px;
+    width: 300px;
+    border: 10px solid white;
+}
+
+main{
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+main img{
+    max-width: 100%;
+}
+
+h2{
+    font-size: 36px;
+    color: darkslategrey;
+    margin: 40px 0 10px;
+
+}
+
+a{
+    color: darkslategrey;
+}
+
+a:hover{
+    color: white;
+    background-color: blueviolet;
+}
+
+footer{
+    text-align: center;
+    color: white;
+    background-color: darkslategrey;
+    padding: 5px;
+
+}
+
+footer p{
+    margin: 0;
+}
+
+footer a{
+    color:white
+}
+
+footer a:hover{
+    opacity: .5;
+    background-color: transparent
+}
+
+p.caption{
+    color: lightgrey;
+    font-style: italic;
+    margin: 0;
+    text-align: center;
+}
